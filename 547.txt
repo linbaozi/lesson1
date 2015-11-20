@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-	printf("ßõ¡£");
+	printf("You fucking scared me.");
 	
 }
