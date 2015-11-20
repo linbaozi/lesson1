@@ -1,4 +1,4 @@
- #include<stdio.h>                                                          
+ #include<stdio.h>                                          fuck                
 #include<conio.h>
 #include<stdlib.h>
 #include<windows.h>
