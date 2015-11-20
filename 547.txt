@@ -1,1 +1,6 @@
-this is a game.
+#include<stdio.h>
+main()
+{
+	printf("ßõ¡£");
+	
+}
